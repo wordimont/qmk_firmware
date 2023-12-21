@@ -57,3 +57,6 @@
 // https://docs.qmk.fm/#/feature_rgb_matrix?id=rgb-matrix-effects
 #define RGB_MATRIX_FRAMEBUFFER_EFFECTS
 #define RGB_MATRIX_KEYPRESSES
+
+// Increase layer count beyond the default of 4
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
