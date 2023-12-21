@@ -58,5 +58,8 @@
 #define RGB_MATRIX_FRAMEBUFFER_EFFECTS
 #define RGB_MATRIX_KEYPRESSES
 
-// Increase layer count beyond the default of 4
+// Increase number of layers beyond the default of 4
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
+
+// Increase number of macros beyond the default of 16
+#define DYNAMIC_KEYMAP_MACRO_COUNT 128
